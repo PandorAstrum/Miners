@@ -3,17 +3,15 @@
 __author__ = "Ashiquzzaman Khan"
 __desc__ = "spider run"
 """
-
-
 import sys,os.path
-sys.path.append('/Skrappy/generalScrapy/generalSkrapy/spiders/')
+sys.path.append('.\\Skrappy\\generalSkrapy\\spiders\\')
 from twisted.internet import reactor
 from scrapy.crawler import Crawler
 from scrapy.settings import Settings
 from scrapy import log, signals
 from scrapy.xlib.pydispatch import dispatcher
 
-from Skrappy.generalScrapy.generalScrapy.spiders import linkedin
+from Skrappy.generalScrapy.spiders import linkedin
 
 spider_count = 0
 number_of_spiders = 2
@@ -54,7 +52,7 @@ from scrapy.utils.project import get_project_settings
 # --run a crawler in a script stuff
 
 # --the spiders
-from Skrappy.generalScrapy.generalScrapy.spiders import linkedin
+from Skrappy.generalScrapy.spiders import linkedin
 
 
 # --the spiders

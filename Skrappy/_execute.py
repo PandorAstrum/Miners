@@ -58,4 +58,3 @@ for search_query in parameters.GOOGLE_SEARCH_QUERY:
     # jobTitle = driver.find_element_by_xpath('//*[@class="facet-list"]/li[@class="jobTitle"]')
     #
     # jobTitle.click()
-
