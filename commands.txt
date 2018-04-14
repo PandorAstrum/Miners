@@ -1,0 +1,3 @@
+scrapy startproject <location>
+
+location to generalScrapy : > scrapy genspider <spider_name> <url>
