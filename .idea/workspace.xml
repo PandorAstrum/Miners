@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78454de5-e86b-48fc-93e5-3ca2193778e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/_execute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Skrappy/_execute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/generalScrapy/spiders/linkedin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/generalScrapy/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skrappy/run_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Skrappy/run_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,8 +83,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
+            <state relative-caret-position="-1562">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,7 +127,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1376" />
@@ -732,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
+        <state relative-caret-position="-1562">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
