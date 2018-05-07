@@ -10,5 +10,16 @@ import scrapy
 
 class GeneralscrapyItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    companyName = scrapy.Field()
+    companySize = scrapy.Field()
+    phoneNumber = scrapy.Field()
+    position = scrapy.Field()
+    address = scrapy.Field()
+    domainName = scrapy.Field()
+    peopleFirstName = scrapy.Field()
+    peopleLastName = scrapy.Field()
+    email = scrapy.Field()
+
+
+
+
